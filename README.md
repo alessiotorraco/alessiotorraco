@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alessiotorraco
 - 👀 I’m interested in engineering, coding and learning new things!
-- 🌱 I’m currently learning Python and AWS/Kubernetes
+- 🌱 I’m currently working on AWS/Kubernetes and DevOps related tasks
+- 🐍 Python lover
 - 💞️ I’m looking to collaborate on small projects
 - 📫 Reach me out!
 
