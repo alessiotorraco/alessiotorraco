@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @alessiotorraco<br>👀 I’m interested in engineering, coding and learning new things!<br>🌱 I’m currently working on AWS/Kubernetes/Azure AKS and DevOps related tasks<br>🐍 Python lover<br>💞️ I’m looking to collaborate on small projects<br>📫 Reach me out!
+👋 Hi, I’m @alessiotorraco<br>👀 I’m interested in engineering, coding and learning new things!<br>🌱 I’m currently working on AWS/Azure and DevOps related tasks<br>🐍 Python lover<br>💞️ I’m looking to collaborate on small projects<br>📫 Reach me out!
 
 <img src="https://camo.githubusercontent.com/0a0289dbb6bd93ffb6399899fb34e090d8b1124b1f17830f2c94f4ceab4e593e/68747470733a2f2f692e6962622e636f2f467852547a79432f536e65616b792d476f626c696e732e6a7067" alt="Sneaky Goblins" width="200"/>
 
